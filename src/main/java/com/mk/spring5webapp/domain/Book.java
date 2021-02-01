@@ -1,7 +1,5 @@
 package com.mk.spring5webapp.domain;
 
-import net.bytebuddy.implementation.bind.annotation.IgnoreForBinding;
-
 import javax.persistence.*;
 import java.util.Set;
 
